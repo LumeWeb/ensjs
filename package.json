@@ -1,9 +1,9 @@
 {
-  "name": "@ensdomains/ensjs",
-  "version": "2.1.0",
+  "name": "@lumeweb/ensjs",
+  "version": "2.1.1",
   "description": "ens.js v2",
   "main": "dist/index.js",
-  "repository": "ensdomains/ensjs",
+  "repository": "lumeweb/ensjs",
   "files": [
     "dist"
   ],
