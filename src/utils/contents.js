@@ -17,7 +17,6 @@ export function decodeContenthash(encoded) {
       if (codec === 'ipfs-ns') {
         protocolType = 'ipfs'
       } else if (codec === 'ipns-ns') {
-        decoded = bs58.decode(decoded).slice(2).toString()
         protocolType = 'ipns'
       } else if (codec === 'swarm-ns') {
         protocolType = 'bzz'
