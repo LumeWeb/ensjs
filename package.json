@@ -1,6 +1,6 @@
 {
   "name": "@lumeweb/ensjs",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "ens.js v2",
   "main": "dist/index.js",
   "repository": "lumeweb/ensjs",
