@@ -49,7 +49,7 @@
     "@ensdomains/address-encoder": "^0.1.7",
     "@ensdomains/ens": "0.4.5",
     "@ensdomains/resolver": "0.2.4",
-    "content-hash": "^2.5.2",
+    "content-hash": "https://github.com/ensdomains/content-hash.git",
     "eth-ens-namehash": "^2.0.8",
     "ethers": "^5.0.13",
     "js-sha3": "^0.8.0"
