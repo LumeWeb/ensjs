@@ -1,6 +1,5 @@
 import contentHash from "content-hash";
 import { ethers } from "ethers";
-import bs58 from "bs58";
 const supportedCodecs = [
   "ipns-ns",
   "ipfs-ns",
